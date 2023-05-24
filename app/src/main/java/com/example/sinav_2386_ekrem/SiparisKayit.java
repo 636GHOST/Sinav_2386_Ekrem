@@ -1,2 +1,4 @@
-package com.example.sinav_2386_ekrem;public class SiparisKayit {
+package com.example.sinav_2386_ekrem;
+
+public class SiparisKayit {
 }
